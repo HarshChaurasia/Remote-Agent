@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/Tests/">
+    <Project Path="Tests/RemoteAgent.FunctionalTests/RemoteAgent.FunctionalTests.csproj" />
+    <Project Path="Tests/RemoteAgent.Infrastructure.UnitTests/RemoteAgent.Infrastructure.UnitTests.csproj" />
+    <Project Path="Tests/RemoteAgent.UnitTests/RemoteAgent.UnitTests.csproj" />
+  </Folder>
+  <Project Path="src/Infrastructure/Infrastructure.csproj" />
+  <Project Path="src/LinuxPlugin/LinuxPlugin.csproj" />
+  <Project Path="src/PluginsContract/PluginsContract.csproj" />
+  <Project Path="src/RemoteAgent.API/WebAPI.csproj" />
+  <Project Path="src/RemoteAgent.Application/Application.csproj" />
+  <Project Path="src/RemoteAgent.Domain/Domain.csproj" />
+  <Project Path="src/WindowsPlugin/WindowsPlugin.csproj" />
+</Solution>
